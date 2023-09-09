@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(black 0% , blue 60% , purple 100%);
+}
+
+.gacor {
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.logo {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
